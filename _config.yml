@@ -96,6 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
+  github           : #"atriassi"
   google_plus      :
   keybase          :
   instagram        :
@@ -114,7 +115,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  github           : "atriassi"
 
 
 # Reading Files
