@@ -85,7 +85,7 @@ author:
   bio              : "PhD Candidate | MIT Biological Engineering" #PhD Candidate | [MIT Biological Engineering](https://be.mit.edu/)"
   location         : "Cambridge, MA"
   employer         : "Voigt Lab" #[Voigt Lab](http://web.mit.edu/voigtlab/ "http://web.mit.edu/voigtlab/")
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=triassi+aj"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=triassi+aj"
   googlescholar    : "https://scholar.google.com/citations?user=W5824VMAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,14 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "atriassi"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0001-6703-1694"
+  orcid            : #"http://orcid.org/0000-0001-6703-1694"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -115,6 +114,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  github           : "atriassi"
 
 
 # Reading Files
